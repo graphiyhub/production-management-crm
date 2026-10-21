@@ -1,0 +1,16 @@
+{
+  "name": "production-management-crm",
+  "version": "1.0.0",
+  "description": "Graphiyy CRM is a static, hash-routed vanilla JavaScript application backed by Supabase Auth and PostgreSQL. GitHub Pages serves only the frontend; all private business-data access depends on Supabase Row Level Security.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "supabase": "^2.121.0"
+  }
+}

@@ -1,0 +1,4 @@
+-- Optional local/development fixtures only.
+-- Do not apply this file to a real workspace. Create fixture users through
+-- Supabase Auth, then create workspaces using the authenticated create_workspace RPC.
+-- This file intentionally inserts no demo records into customer workspaces.
